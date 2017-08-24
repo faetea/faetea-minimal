@@ -1,46 +1,46 @@
 ---
 layout: portfolio
 title: "Playa Clothes 2014"
+excerpt: " "
 date: 2014-08-01
 header:
-  teaser: /assets/images/31408_221_H.jpg
-  image: /assets/images/31408_221_H.jpg
-  caption: "Photo credit: [**XXV**](https://staticfree.info/projects)"
+  teaser: /assets/wear/31408_221_T.jpg
+  image: /assets/wear/31408_221_H.jpg
 gallery:
--   url: /assets/images/31408_221.jpg
-    image_path: /assets/images/31408_221.jpg
+-   url: /assets/wear/31408_221.jpg
+    image_path: /assets/wear/31408_221.jpg
     alt: "Electric Camo Hooded Halter Top"
     title: "Electric Camo Hooded Halter Top"
--   url: /assets/images/31408_229.jpg
-    image_path: /assets/images/31408_229.jpg
+-   url: /assets/wear/31408_229.jpg
+    image_path: /assets/wear/31408_229.jpg
     alt: "Electric Camo Hooded Halter Top"
     title: "Electric Camo Hooded Halter Top"
--   url: /assets/images/31408_234.jpg
-    image_path: /assets/images/31408_234.jpg
+-   url: /assets/wear/31408_234.jpg
+    image_path: /assets/wear/31408_234.jpg
     alt: "Electric Camo Hooded Halter Top"
     title: "Electric Camo Hooded Halter Top"
--   url: /assets/images/31408_293.jpg
-    image_path: /assets/images/31408_293.jpg
+-   url: /assets/wear/31408_293.jpg
+    image_path: /assets/wear/31408_293.jpg
     alt: "Hooded Wrap Vest"
     title: "Hooded Wrap Vest"
--   url: /assets/images/31408_301.jpg
-    image_path: /assets/images/31408_301.jpg
+-   url: /assets/wear/31408_301.jpg
+    image_path: /assets/wear/31408_301.jpg
     alt: "Hooded Wrap Vest"
     title: "Hooded Wrap Vest"
--   url: /assets/images/31408_312.jpg
-    image_path: /assets/images/31408_312.jpg
+-   url: /assets/wear/31408_312.jpg
+    image_path: /assets/wear/31408_312.jpg
     alt: "Hooded Wrap Vest"
     title: "Hooded Wrap Vest"
--   url: /assets/images/31408_332.jpg
-    image_path: /assets/images/31408_332.jpg
+-   url: /assets/wear/31408_332.jpg
+    image_path: /assets/wear/31408_332.jpg
     alt: "Feather Bra"
     title: "Feather Bra"
--   url: /assets/images/31408_334.jpg
-    image_path: /assets/images/31408_334.jpg
+-   url: /assets/wear/31408_334.jpg
+    image_path: /assets/wear/31408_334.jpg
     alt: "Feather Bra"
     title: "Feather Bra"
--   url: /assets/images/31408_339.jpg
-    image_path: /assets/images/31408_339.jpg
+-   url: /assets/wear/31408_339.jpg
+    image_path: /assets/wear/31408_339.jpg
     alt: "Feather Bra"
     title: "Feather Bra"
 categories:

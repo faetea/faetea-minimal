@@ -1,58 +1,58 @@
 ---
 layout: portfolio
 title: "Firefly Garb 2015"
+excerpt: " "
 date: 2015-07-01
 header:
-  teaser: /assets/images/31502_149_H.jpg
-  image: /assets/images/31502_149_H.jpg
-  caption: "Photo credit: [**XXV**](https://staticfree.info/projects)"
+  teaser: /assets/wear/31502_149_T.jpg
+  image: /assets/wear/31502_149_H.jpg
 gallery:
--   url: /assets/images/31502_147.jpg
-    image_path: /assets/images/31502_147.jpg
+-   url: /assets/wear/31502_147.jpg
+    image_path: /assets/wear/31502_147.jpg
     alt: "Blue Hoodie Coat"
     title: "Blue Hoodie Coat"
--   url: /assets/images/31502_149.jpg
-    image_path: /assets/images/31502_149.jpg
+-   url: /assets/wear/31502_149.jpg
+    image_path: /assets/wear/31502_149.jpg
     alt: "Blue Hoodie Coat"
     title: "Blue Hoodie Coat"
--   url: /assets/images/31502_161.jpg
-    image_path: /assets/images/31502_161.jpg
+-   url: /assets/wear/31502_161.jpg
+    image_path: /assets/wear/31502_161.jpg
     alt: "Blue Hoodie Coat"
     title: "Blue Hoodie Coat"
--   url: /assets/images/31504_0511.jpg
-    image_path: /assets/images/31504_0511.jpg
+-   url: /assets/wear/31504_511.jpg
+    image_path: /assets/wear/31504_511.jpg
     alt: "Long Green Wrap Pants"
     title: "Long Green Wrap Pants"
--   url: /assets/images/31504_0515.jpg
-    image_path: /assets/images/31504_0515.jpg
+-   url: /assets/wear/31504_515.jpg
+    image_path: /assets/wear/31504_515.jpg
     alt: "Long Green Wrap Pants"
     title: "Long Green Wrap Pants"
--   url: /assets/images/31504_0518.jpg
-    image_path: /assets/images/31504_0518.jpg
+-   url: /assets/wear/31504_518.jpg
+    image_path: /assets/wear/31504_518.jpg
     alt: "Long Green Wrap Pants"
     title: "Long Green Wrap Pants"
--   url: /assets/images/31505_0533.jpg
-    image_path: /assets/images/31505_0533.jpg
+-   url: /assets/wear/31505_533.jpg
+    image_path: /assets/wear/31505_533.jpg
     alt: "Short Green Wrap Pants"
     title: "Short Green Wrap Pants"
--   url: /assets/images/31505_0536.jpg
-    image_path: /assets/images/31505_0536.jpg
+-   url: /assets/wear/31505_536.jpg
+    image_path: /assets/wear/31505_536.jpg
     alt: "Short Green Wrap Pants"
     title: "Short Green Wrap Pants"
--   url: /assets/images/31505_0542.jpg
-    image_path: /assets/images/31505_0542.jpg
+-   url: /assets/wear/31505_542.jpg
+    image_path: /assets/wear/31505_542.jpg
     alt: "Short Green Wrap Pants"
     title: "Short Green Wrap Pants"
--   url: /assets/images/31507_353.jpg
-    image_path: /assets/images/31507_353.jpg
+-   url: /assets/wear/31507_353.jpg
+    image_path: /assets/wear/31507_353.jpg
     alt: "Feather Bra II"
     title: "Feather Bra II"
--   url: /assets/images/31507_356.jpg
-    image_path: /assets/images/31507_356.jpg
+-   url: /assets/wear/31507_356.jpg
+    image_path: /assets/wear/31507_356.jpg
     alt: "Feather Bra II"
     title: "Feather Bra II"
--   url: /assets/images/31507_363.jpg
-    image_path: /assets/images/31507_363.jpg
+-   url: /assets/wear/31507_363.jpg
+    image_path: /assets/wear/31507_363.jpg
     alt: "Feather Bra II"
     title: "Feather Bra II"
 categories:
