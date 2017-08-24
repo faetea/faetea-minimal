@@ -1,8 +1,12 @@
 ---
-title: My Projects
-excerpt: "A Gallery of my Projects"
-layout: single
+layout: archive
+title: "Portfolio"
+permalink: /portfolio/
 author_profile: false
-share: true
-comments: false
 ---
+
+<div class="grid__wrapper">
+  {% for post in site.portfolio reversed %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
