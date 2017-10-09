@@ -8,39 +8,39 @@ header:
   image: /assets/wear/31408_221_H.jpg
 gallery:
 -   url: /assets/wear/31408_221.jpg
-    image_path: /assets/wear/31408_221.jpg
+    image_path: /assets/wear/31408_221_TVS.jpg
     alt: "Electric Camo Hooded Halter Top"
     title: "Electric Camo Hooded Halter Top"
 -   url: /assets/wear/31408_229.jpg
-    image_path: /assets/wear/31408_229.jpg
+    image_path: /assets/wear/31408_229_TVS.jpg
     alt: "Electric Camo Hooded Halter Top"
     title: "Electric Camo Hooded Halter Top"
 -   url: /assets/wear/31408_234.jpg
-    image_path: /assets/wear/31408_234.jpg
+    image_path: /assets/wear/31408_234_TVS.jpg
     alt: "Electric Camo Hooded Halter Top"
     title: "Electric Camo Hooded Halter Top"
 -   url: /assets/wear/31408_293.jpg
-    image_path: /assets/wear/31408_293.jpg
+    image_path: /assets/wear/31408_293_TVS.jpg
     alt: "Hooded Wrap Vest"
     title: "Hooded Wrap Vest"
 -   url: /assets/wear/31408_301.jpg
-    image_path: /assets/wear/31408_301.jpg
+    image_path: /assets/wear/31408_301_TVS.jpg
     alt: "Hooded Wrap Vest"
     title: "Hooded Wrap Vest"
 -   url: /assets/wear/31408_312.jpg
-    image_path: /assets/wear/31408_312.jpg
+    image_path: /assets/wear/31408_312_TVS.jpg
     alt: "Hooded Wrap Vest"
     title: "Hooded Wrap Vest"
 -   url: /assets/wear/31408_332.jpg
-    image_path: /assets/wear/31408_332.jpg
+    image_path: /assets/wear/31408_332_TVS.jpg
     alt: "Feather Bra"
     title: "Feather Bra"
 -   url: /assets/wear/31408_334.jpg
-    image_path: /assets/wear/31408_334.jpg
+    image_path: /assets/wear/31408_334_TVS.jpg
     alt: "Feather Bra"
     title: "Feather Bra"
 -   url: /assets/wear/31408_339.jpg
-    image_path: /assets/wear/31408_339.jpg
+    image_path: /assets/wear/31408_339_TVS.jpg
     alt: "Feather Bra"
     title: "Feather Bra"
 categories:
