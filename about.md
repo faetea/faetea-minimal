@@ -1,11 +1,9 @@
 ---
 layout: single
-title: About FAETEA
+title: About
 permalink: /about/
 date: 2017-10-08
 ---
-
-Fine Artist, painter and clothing designer. In love with color. Distracted by plants.
 
 FAETEA encompasses the work and projects of Allison J. Sebastian, also known as Saphron Reyn.
 She enjoys playing with fabrics, paints, markers, LEDs, beads, and plants.

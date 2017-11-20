@@ -5,14 +5,12 @@
 
 # Site settings
 locale: "en_US"
-title: Faetea
+title: FAETEA
 email: saphron@faetea.com
 description: FAETEA encompasses the painting and wearables of Allison J. Sebastian, also known as Saphron Reyn.
 # the base hostname & protocol for your site, e.g. http://example.com
 # url:  "http://faetea.com"   #no trailing '/'
 url: "http://localhost:4000"   #no trailing '/'
-twitter_username: faetea
-github_username:  faetea
 og_image: _images/logo.png
 
 # Build settings
@@ -37,15 +35,20 @@ tag_archive:
 # Site Author
 author:
   name: "Allison J. Sebastian"
-  avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "An avid sewist and a skillful painter, she enjoys playing with fabrics, paints, markers, LEDs, beads and plants.
-        Recently she has been focused on sewing custom clothing, as she enjoys the process of drafting patterns for bespoke garments.
-        Allison earned a Bachelor of Fine Arts focused on illustration, and graduated from a Web Development Intensive."
+  avatar: "/assets/images/logo.png"
+  bio: "Fine Artist, painter and clothing designer. In love with color. Distracted by plants."
   location: "Cambridge, MA"
-  behance: "faetea"
-  etsy: "faetea"
+  email: saphron@faetea.com
+  # keybase: "saphron"
+  # twitter: "faetea"
   facebook: "faeteadesigns"
+  linkedin: "allisonsebastian"
   instagram: "faetea"
+  # github: "faetea"
+  # lastfm: "faetea"
+  # pinterest: "saphronr"
+  # behance: "faetea"
+  # etsy: "faetea"
 
 collections:
   portfolio:
