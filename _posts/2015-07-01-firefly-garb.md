@@ -4,7 +4,7 @@ title: "Firefly Garb 2015"
 excerpt: " "
 date: 2015-07-01
 header:
-  teaser: /assets/wear/31502_149_T.jpg
+  teaser: /assets/wear/31502_149_T400.jpg
   image: /assets/wear/31502_149_H.jpg
 gallery:
 -   url: /assets/wear/31502_147.jpg
@@ -55,20 +55,6 @@ gallery:
     image_path: /assets/wear/31507_363_TVS.jpg
     alt: "Feather Bra II"
     title: "Feather Bra II"
-categories:
--   Clothing
--   Wearables
--   Sewing
-tags:
--   bike inner tube
--   bikeinnertube
--   biketube
--   custom clothes
--   handmade
--   one-of-a-kind
--   oneofakindfashion
--   upcycled
--   upcycledfashion
 ---
 
 These items were sewn by me in 2015.

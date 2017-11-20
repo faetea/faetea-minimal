@@ -4,7 +4,7 @@ title: "Playa Clothes 2014"
 excerpt: " "
 date: 2014-08-01
 header:
-  teaser: /assets/wear/31408_221_T.jpg
+  teaser: /assets/wear/31408_221_T400.jpg
   image: /assets/wear/31408_221_H.jpg
 gallery:
 -   url: /assets/wear/31408_221.jpg
@@ -43,20 +43,6 @@ gallery:
     image_path: /assets/wear/31408_339_TVS.jpg
     alt: "Feather Bra"
     title: "Feather Bra"
-categories:
--   Clothing
--   Wearables
--   Sewing
-tags:
--   bike inner tube
--   bikeinnertube
--   biketube
--   custom clothes
--   handmade
--   one-of-a-kind
--   oneofakindfashion
--   upcycled
--   upcycledfashion
 ---
 
 I sewed these items to wear at Burning Man 2014.

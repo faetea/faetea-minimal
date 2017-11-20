@@ -4,7 +4,7 @@ title: "Triangle Paintings"
 excerpt: " "
 date: 2017-05-10
 header:
-  teaser: /assets/paint/triPurp_T.jpg
+  teaser: /assets/paint/triPurp_T400.jpg
   image: /assets/paint/triPurp_H.jpg
 gallery:
 -   url: /assets/paint/triTeal.jpg
@@ -27,10 +27,6 @@ gallery:
     image_path: /assets/paint/landPurpleTVS.jpg
     alt: "Violet Landscape"
     title: "Violet Landscape"
-categories:
--   Painting
-tags:
--   acrylic
 ---
 
 {% include gallery caption="Paintings" %}
