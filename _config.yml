@@ -9,8 +9,8 @@ title: FAETEA
 email: saphron@faetea.com
 description: FAETEA encompasses the painting and wearables of Allison J. Sebastian, also known as Saphron Reyn.
 # the base hostname & protocol for your site, e.g. http://example.com
-# url:  "http://faetea.com"   #no trailing '/'
-url: "http://localhost:4000"   #no trailing '/'
+url:  "http://faetea.com"   #no trailing '/'
+# url: "http://localhost:4000"   #no trailing '/'
 og_image: _images/logo.png
 
 # Build settings
@@ -41,7 +41,7 @@ author:
   email: saphron@faetea.com
   # keybase: "saphron"
   # twitter: "faetea"
-  facebook: "faeteadesigns"
+  facebook: "shopfaetea"
   linkedin: "allisonsebastian"
   instagram: "faetea"
   # github: "faetea"
